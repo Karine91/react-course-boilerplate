@@ -1,3 +1,1 @@
-# Expensify-app
-
-learning react
+# Boilerplate react app
